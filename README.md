@@ -1,8 +1,3 @@
-# This is a simple ETL pipeline from Spotify API.
-This pipeline extract recently played songs from the users, transform the data a bit to have more concise and readable, then load the transformed data to an SQL database.
-
-Tech used: SQLite, Python
-
 # Spotify API Extract, Transform, and Load using Python and SQLite
 
 This project is extracting user's recently played songs, transform the data to make it more concise and readable, then load them to SQL database.
