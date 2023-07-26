@@ -3,7 +3,6 @@ This pipeline extract recently played songs from the users, transform the data a
 
 Tech used: SQLite, Python
 
-
 # Spotify API Extract, Transform, and Load using Python and SQLite
 
 This project is extracting user's recently played songs, transform the data to make it more concise and readable, then load them to SQL database.
